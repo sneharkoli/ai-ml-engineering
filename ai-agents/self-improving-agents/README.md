@@ -81,7 +81,7 @@ pip install -r requirements.txt
 - **Unsupervised:** Silhouette score, cluster visualization.
 - **Reinforcement:** Average reward per episode, success rate.
 
-## Documentation
+## Documentation (Please refer notebooks)
 - [Supervised Learning Details](docs/supervised.md)
 - [Unsupervised Learning Details](docs/unsupervised.md)
 - [Reinforcement Learning Details](docs/reinforcement.md)
